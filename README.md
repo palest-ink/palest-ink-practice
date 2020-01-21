@@ -1,1 +1,1 @@
-# palest-ink-java-utils
+# palest-ink-practice
